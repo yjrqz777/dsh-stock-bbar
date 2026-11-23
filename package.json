@@ -1,7 +1,7 @@
 {
   "name": "dsh-stock-bbar",
   "version": "1.0.0",
-  "description": "Live prices for a comma-separated list of A-share, Beijing, Hong Kong, or index codes under the DSH message composer, with direction arrows and session percentages.",
+  "description": "Live prices for a comma-separated list of A-share, Beijing, Hong Kong, or index codes under the DSH message composer, with red-up green-down colouring and session percentages.",
   "type": "module",
   "license": "MIT",
   "main": "index.js",
