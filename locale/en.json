@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Stock ticker",
+    "description": "Shows the price and session percentage of one instrument in a fixed-width row below the message composer, starting with the Shanghai Composite Index. A comma-separated code list can be entered from the right-click menu, and clicking a name cycles through it; clicking a price turns the red/green coding off. Quotes come from qt.gtimg.cn, refresh every 5 seconds while the page is visible, and are read by the Host half of the plugin, so the browser never contacts that provider directly; prices are as fresh as the provider allows and can trail the exchange by a few seconds. The code list, the selected instrument, and the colour choice are kept in this browser."
+  }
+}
